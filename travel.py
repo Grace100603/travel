@@ -10,7 +10,7 @@ get_ipython().system('pip install streamlit')
 # In[5]:
 
 
-pip install openai
+get_ipython().system('pip install openai')
 
 
 # In[6]:
