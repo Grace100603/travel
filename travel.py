@@ -1,21 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[3]:
-
-
-get_ipython().system('pip install streamlit')
-
-
-# In[5]:
-
-
-get_ipython().system('pip install openai')
-
-
-# In[6]:
-
-
 import streamlit as st
 import openai
 
@@ -83,10 +65,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-# In[ ]:
-
-
-
-
